@@ -1,2 +1,4 @@
-Original fichier commun
-Avec Quelque lignes
+Original fichiers commun
+Avec Quelques lignes
+
+Une fonction dans git
