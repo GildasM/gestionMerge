@@ -4,7 +4,9 @@ et amélioré
 
 Original fichiers commun
 Avec Quelques lignes
-EN plus
+EN plus dans git
+GITGIT
 
 Une fonction dans git
 Que j'améliore
+ET que j'aime
