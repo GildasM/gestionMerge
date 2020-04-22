@@ -1,3 +1,6 @@
+Fonction modifier 
+dans eclipse
+et amélioré
 
 Original fichiers commun
 Avec Quelques lignes
