@@ -1,8 +1,9 @@
-Fonction modifier 
+Fonction modifier et remodifié
 dans eclipse
 et amélioré
+et qui fonctionne
 
-Original fichiers commun
+Original fichiers commun un peu modifié
 Avec Quelques lignes
 EN plus
 
